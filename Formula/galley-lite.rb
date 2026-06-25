@@ -1,8 +1,8 @@
 class GalleyLite < Formula
   desc "Comment-to-edit any local HTML with the Claude Code session that built it"
   homepage "https://github.com/maggiemchen/galley-lite"
-  url "https://github.com/maggiemchen/galley-lite/archive/refs/tags/v0.1.0.tar.gz"
-  sha256 "fc6ae0a8326f87d545cb72c64caa5c0e8d3902ae593d60cbed68ac053161443e"
+  url "https://github.com/maggiemchen/galley-lite/archive/refs/tags/v0.1.1.tar.gz"
+  sha256 "35bf10c52bcfc0da9a0745fb8eb5dbbc7920447abcaee3200aaef0e807c7c6c7"
   license "MIT"
 
   depends_on "node"
